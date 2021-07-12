@@ -1,7 +1,7 @@
 # MongoDB Helm charts
 This folder contains the various `values.yaml` files for the MongoDB helm charts.
 
-### Mongodb
+### Bitnami Mongodb
 * Install the Bitnami Helm repo
 
       helm repo add bitnami https://charts.bitnami.com/bitnami
